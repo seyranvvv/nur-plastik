@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/database/GeoLite2-City.mmdb
 .env
 .env.backup
 .phpunit.result.cache
